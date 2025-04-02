@@ -1,16 +1,52 @@
-# eccommerce2
+🛒 eCommerce App
 
-A new Flutter project.
+📌 Overview
 
-## Getting Started
+This is a Flutter-based eCommerce application featuring a seamless shopping experience with powerful functionalities. The app utilizes GetX as the state management solution to ensure smooth and efficient state handling.
 
-This project is a starting point for a Flutter application.
+✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+📌 Product Listing – Browse a variety of products with detailed descriptions.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔍 Search Functionality – Find your desired products easily with an advanced search feature.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📂 Categories – Browse products by categories for a structured shopping experience.
+
+🛒 Add to Cart – Add products to your cart and manage your selections effortlessly.
+
+🔥 Featured Products – Discover top-rated and trending products with the featured section.
+
+🔧 Tech Stack
+
+Flutter – The framework used for building the app.
+
+Dart – The programming language used.
+
+GetX – State management solution for efficient app state handling.
+
+API – "https://fakestoreapi.com"
+
+🚀 Getting Started
+
+Clone the repository:
+
+git clone https://github.com/IbrahimShabaan/eccommerce2
+
+Navigate to the project directory:
+
+cd eccommerce2
+
+Install dependencies:
+
+flutter pub get
+
+Run the app:
+
+flutter run
+
+📷 Video Recrord
+
+https://drive.google.com/file/d/1YAot1X3VvweCS3sXzhSQg8ZbVJYOQ7pp/view?usp=sharing
+
+
+
